@@ -81,12 +81,27 @@ body {
   <p>Kelham Island is a museum, opened in 1982, used to hold the objects, pictures and materials that represent Sheffield's history.
   Their range of galleries tell a story about things from skilled workmanship, to what it was like to live and work in Sheffield
   during the industrial revolution.</p> 
+  
+  <button onclick="ShowAndHide()">Click for a fun fact</button>
+  <div id="SectionName" style="display:none"> Did you know that Kelham Island is the home of the Grand Slam Bomb: The biggest
+  bomb ever used during WW2!</div>
 </div>
   <p align="center"> <img src="BackOfIsland.jpeg" width=90% class="center"></p>
 
 <!-- End smartphone / tablet look -->
 </div>
-
+  
+<Script>
+function ShowAndHide() {
+    var x = document.getElementById('SectionName');
+    if (x.style.display == 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</Script>
+  
 <script>
 function myFunction() {
   var x = document.getElementById("myLinks");
