@@ -1,0 +1,11 @@
+Model Information:
+* title:	1920'S Pierce Arrow
+* source:	https://sketchfab.com/3d-models/1920s-pierce-arrow-ab9e5dfffd474d3b9d8c76f46da1a499
+* author:	Dkerr (https://sketchfab.com/daleraymondkerr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1920'S Pierce Arrow" (https://sketchfab.com/3d-models/1920s-pierce-arrow-ab9e5dfffd474d3b9d8c76f46da1a499) by Dkerr (https://sketchfab.com/daleraymondkerr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
